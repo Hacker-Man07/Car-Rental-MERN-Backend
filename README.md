@@ -7,7 +7,7 @@
 1- Clone the repo
 
 ```bash
-https://github.com/capo33/rental-car-backend
+(https://github.com/Hacker-Man07/Car-Rental-MERN-Backend.git)
 ```
 
 2- Install dependencies
